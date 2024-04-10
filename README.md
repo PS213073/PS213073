@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Laravel and Flutter<br>🌱 I’m currently Laravel and Flutter<br>💬 Ask me anything about Laravel and Flutter<br>📫 How to reach me: daniel_shahzada@live.co.uk<br>
+🔭 I’m currently working on Laravel<br>🌱with vue.js and nuxt<br>💬 Feel free to ask any question<br>📫 How to reach me: daniel_shahzada@live.co.uk<br>
 
 
 ## 🌐 Socials:
