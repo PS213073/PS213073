@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Laravel<br>🌱 in combination with vue.js and nuxt<br>💬 Feel free to ask any question<br>📫 How to reach me: daniel_shahzada@live.co.uk<br>
+i am a student software developer at summa college.
 
 
 ## 🌐 Socials:
