@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-i am a student software developer at summa college.
+i am a junior software developer at DMWS.
 
 
 ## 🌐 Socials:
